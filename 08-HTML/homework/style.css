@@ -1,0 +1,44 @@
+
+
+h1 {
+    color: rgb(250, 206, 9);
+    
+    
+}
+
+
+img {
+    width: 350px;
+}
+
+#thirdDiv {
+
+    height: 730px;
+    width: 500px;
+    background-color: rgba(0, 0, 0, 0.589);
+    padding: 50px;
+    border-radius: 10px;
+    border-color: rgb(9, 255, 0);
+   
+
+}
+
+/* thirddiv era un id, no clase, lo cambie pq no me tomaba estilos ↑*/ 
+
+/* CORREGIDO!!! SE USABA # PARA LOS ID  */
+
+#spanId {
+    font-size: 20px;
+    margin: 50px;
+}
+
+.Fastfood {
+    text-decoration: None;
+    color: rgb(155, 132, 1);
+    
+}
+
+.divClass {
+
+    
+}
